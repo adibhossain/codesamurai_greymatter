@@ -1,0 +1,13 @@
+INSERT ALL
+INTO GRANT_PROVIDER VALUES('GP_1','Rokibul Hasan','01393939320','rokibul@gmail.com',20000)
+INTO GRANT_PROVIDER VALUES('GP_2','Jomiul Kobir','01393939320','jomiul@gmail.com',60000)
+INTO GRANT_PROVIDER VALUES('GP_3','Ayon Kabir','01393939320','ayon@gmail.com',200000)
+INTO GRANT_PROVIDER VALUES('GP_4','Sakib Al Hasan','01393939320','sakibal@gmail.com',120000)
+INTO GRANT_PROVIDER VALUES('GP_5','Tamim Iqbal','01393939320','tamim@gmail.com',50000)
+INTO GRANT_PROVIDER VALUES('GP_6','Fazley Rahman','01393939320','fazley@gmail.com',80000)
+INTO GRANT_PROVIDER VALUES('GP_7','Nazrat Ahmed','01393939320','nazrat@gmail.com',90000)
+INTO GRANT_PROVIDER VALUES('GP_8','Nashrah Chowdhury','01393939320','nashrah@gmail.com',10000)
+INTO GRANT_PROVIDER VALUES('GP_9','Lotus Raima','01393939320','raima@gmail.com',20000)
+INTO GRANT_PROVIDER VALUES('GP_10','Babu Hasan','01393939320','babu@gmail.com',10000)
+INTO GRANT_PROVIDER VALUES('GP_11','Alisha Bilwal','01393939320','alisha@gmail.com',210000)
+SELECT * FROM DUAL;
