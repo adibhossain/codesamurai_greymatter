@@ -37,7 +37,7 @@ include 'db_conn.php';
               >
             </li>
             <li class="nav-item mx-3">
-              <a class="nav-link" href="#">Projects Near You</a>
+              <a class="nav-link" href="projects_near_you.php">Projects Near You</a>
             </li>
             <li class="nav-item mx-3">
               <a class="nav-link" href="add_proposed.php"
